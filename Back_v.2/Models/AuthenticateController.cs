@@ -12,6 +12,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
+using Npgsql.EntityFrameworkCore.PostgreSQL;
 
 namespace Back_v._2.Controllers
 {
